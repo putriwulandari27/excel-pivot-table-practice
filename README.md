@@ -27,4 +27,4 @@ Proyek portofolio SMK ini berisi latihan pengolahan data mentah transaksi menggu
   
 ## 📷 Tampilan
 ![Foto 1](Laporan-pivot-table-01.jpg)
-![Foto 2](Tampilan_gambar2.jpg)
+![Foto 2](Laporan-pivot-table-02.jpg)
