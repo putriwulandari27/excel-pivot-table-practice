@@ -26,5 +26,5 @@ Proyek portofolio SMK ini berisi latihan pengolahan data mentah transaksi menggu
 - **Hasil:** Laporan dapat disaring berdasarkan tahun tertentu (misal: hanya melihat transaksi tahun `2021` atau `2022`).
   
 ## 📷 Tampilan
-![Foto 1](IMG_20260725_201550.jpg)
+![Foto 1](Laporan-pivot-table-01.jpg)
 ![Foto 2](Tampilan_gambar2.jpg)
