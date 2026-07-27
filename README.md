@@ -27,3 +27,4 @@ Proyek portofolio SMK ini berisi latihan pengolahan data mentah transaksi menggu
 - 
 ## 📷 Tampilan
 ![Foto 1](IMG_20260725_201550.jpg)
+![Foto 2](IMG_20260725_201524.jpg)
